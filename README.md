@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="center" alt="Coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" height="500" width="900">
 <p> Hey there! 👋🏾 👩🏾‍💻</p>
 <p>My name is Zeferino Dias and I'm a Technology Professor at IPC-Angola, I'm currently teaching and learning Programming in C#, HTML, CSS and JAVASCRIPT.</p>
 <h3 align="left">Connect with me:</h3>
@@ -28,4 +28,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeferinoDias&layout=compact&langs_count=7&theme=elegant&hide_border"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeferinoDias&show_icons=true&theme=elegant&hide_border&include_all_commits=true&count_private=true"/>
 </div>
- ![Snake animation](https://github.com/ZeferinoDias/ZeferinoDias/blob/output/github-contribution-grid-snake.svg)
+ <hr>
+
